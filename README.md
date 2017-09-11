@@ -11,7 +11,7 @@ A simple and clean boilerplate for Electron and react. It includes:
 
 ## Usage
 
-NodeJS v8.3.0
+NodeJS v8.4.0
 
 - Clone the repo
 `git clone https://github.com/tahnik/electron-react.git`
