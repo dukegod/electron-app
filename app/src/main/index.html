@@ -13,7 +13,7 @@
   <div id="reactbody"></div>
   <script>
     {
-      if (process.env.NODE_ENV) {
+      if (process && process.env.NODE_ENV) {
         const bundle = document.createElement('script');
         const port = 8080;
         bundle.src = 'http://localhost:' + port + '/app.bundle.js';
