@@ -1,3 +1,8 @@
+# env required
+
++ node > v8.4.0
+
+
 # ElectronJS + ReactJS boilerplate
 
 A simple and clean boilerplate for Electron and react. It includes:
@@ -10,8 +15,6 @@ A simple and clean boilerplate for Electron and react. It includes:
 - [Babel] for compiling
 
 ## Usage
-
-NodeJS v8.4.0
 
 - Clone the repo
 `git clone https://github.com/tahnik/electron-react.git`
