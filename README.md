@@ -1,6 +1,6 @@
 # env required
 
-+ node > v8.4.0
++ node > v9.2.0
 
 
 # ElectronJS + ReactJS boilerplate
